@@ -4,7 +4,7 @@ function solution(s, t){
     let answer=[];
 
 
-
+    console.log('hi')
     return answer;
 }
 
