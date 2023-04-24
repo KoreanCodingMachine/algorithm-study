@@ -13,7 +13,7 @@ function solution(n, k, card){
 
     // 큰 수로 정렬
     sum.sort((a,b) => b-a)
-    
+
 
     return answer = sum[k-1]
 }
